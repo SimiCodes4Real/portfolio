@@ -1,0 +1,81 @@
+body{
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+.site-wrapper{
+    width: 100%;
+    height: auto;
+    margin: 50px 0;
+    overflow: hidden;
+}
+#menu{
+    border-bottom: 2px solid #cecece;
+}
+a:hover{
+    text-decoration: none;
+    color: #aaa;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.navbar-nav{
+    color: #333;
+}
+.nav-link {
+    color: #333;
+    font-size: 1.2rem;
+    font-family: "Montserrat-light";
+}
+#techin{
+    border-bottom: 2px solid #cecece;
+}
+.image{   
+  height: 300px;
+}
+#column{
+    border-bottom: 2px solid #cecece;
+}
+.icon-img{
+    padding-left: 300px;
+}
+.icon{
+    padding-right:300px;
+}
+h4{
+   margin-top: 20px;
+}
+.rowimg{
+    border-radius: 50%;
+    width: auto;
+    height: 96px;
+}
+.feature-img{
+    text-align: center;
+    margin: 20px auto;
+}
+.newsletter{
+    border-bottom: 2px solid #cecece;
+    text-align: center;
+    padding: 20px;
+}
+.newsletter h4{
+   width: 350px;
+   margin: 20px auto;
+   font-weight: bolder;
+   margin-bottom: 0;
+}
+#test{
+    border-bottom: 2px solid #cecece;
+}
+.testimonial{
+    margin: 40px;
+}
+.form-search{
+    margin: 20px auto;
+}
+.input-medium{
+    width: 350px;
+    padding: 5px 8px;
+    height: 35px;
+}
